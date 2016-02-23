@@ -1,7 +1,7 @@
 # bug_dexter_black_screen
 Repository create to report a Bug on Dexter Library.
-Dexter Library: https://github.com/Karumi/Dexter
-Issue #48: https://github.com/Karumi/Dexter/issues/48
+- Dexter Library: https://github.com/Karumi/Dexter
+- Issue #48: https://github.com/Karumi/Dexter/issues/48
 
 # How To Simulate
 
