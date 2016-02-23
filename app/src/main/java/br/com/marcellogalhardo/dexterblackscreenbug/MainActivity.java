@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onPermissionRationaleShouldBeShown(PermissionRequest permission, final PermissionToken token) {
                     Toast.makeText(MainActivity.this, "onPermissionRationaleShouldBeShown", Toast.LENGTH_SHORT).show();
+                    token.continuePermissionRequest();
                 }
             }, Manifest.permission.READ_PHONE_STATE);
         }
